@@ -1,2 +1,2 @@
-# OOP_python
-examples opp python
+# Programación para la ciencia de datos
+1. Programación orientada a objetos
